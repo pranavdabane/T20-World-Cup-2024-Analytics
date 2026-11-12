@@ -1,0 +1,44 @@
+# ICC Men's T20 World Cup 2024 – Cricket Data Analytics & Power BI Dashboard
+
+## Project Overview
+
+This project focuses on analyzing ICC Men's T20 World Cup 2024 cricket data using Python, Pandas, and Power BI. It provides interactive insights into team performance, batting statistics, bowling statistics, and individual player performance.
+
+## Technologies Used
+
+- Python
+- Pandas
+- Power BI
+- DAX
+- Excel
+- JSON
+
+## Key Features
+
+- Cricket data cleaning and preprocessing using Python and Pandas.
+- Team and player performance analysis.
+- Interactive batting and bowling performance dashboards.
+- Player statistics and performance comparison.
+- Interactive Playing XI builder with player roles and batting positions.
+
+## Dashboard Preview
+
+Add your Power BI dashboard screenshots here.
+
+## Data Source
+
+Cricket match data sourced from [Cricsheet](https://cricsheet.org/).
+
+## Project Objectives
+
+- Analyze cricket match and player performance.
+- Transform raw cricket data into structured datasets.
+- Build interactive dashboards for meaningful insights.
+- Support data-driven team selection and performance evaluation.
+
+## Author
+
+**Pranav Krushnat Dabane**
+
+- GitHub: YOUR_GITHUB_PROFILE_LINK
+- LinkedIn: YOUR_LINKEDIN_PROFILE_LINK
